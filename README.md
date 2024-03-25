@@ -1,23 +1,34 @@
+
 [![MASTER HEAD](https://th.bing.com/th/id/R.75ea38495d3a5bc0c90316b57f9bbfb5?rik=CKmgcCEhXQE1OA&riu=http%3a%2f%2fwww.pramukhdigital.com%2fwp-content%2fuploads%2f2018%2f07%2fNew-PNC-Animated-Banners.gif&ehk=fs6XGSkrODbDz9LuU2tZgUw5aQd76DxwLvAaGpktUZI%3d&risl=&pid=ImgRaw&r=0)]
+
 <h1 align="center">Hi 👋, I'm Rohit.N</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate FUll Stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitn002&label=Profile%20views&color=0e75b6&style=flat" alt="rohitn002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitn002" alt="rohitn002" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- I am currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://rohit-portfolio-sigma.vercel.app/](https://rohit-portfolio-sigma.vercel.app/)
 
+- Ask me about **MERN Stack**
+
 - 📫 How to reach me **rohitnagaraj002@gmail.com**
+
+- Resume [https://drive.google.com/file/d/17SKcOn1frYd9l4HCIicD_A4I6hn_ll4o/view?usp=sharing](https://drive.google.com/file/d/17SKcOn1frYd9l4HCIicD_A4I6hn_ll4o/view?usp=sharing)
+
+- Fun fack **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://codepen.io/rohit.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rohit.n" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohit nagaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit nagaraj" height="30" width="40" /></a>
+<a href="https://instagram.com/rohi.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohi.codes" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohitrandy002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitrandy002" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rohitrambw7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohitrambw7" height="30" width="40" /></a>
 </p>
