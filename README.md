@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit.N</h1>
-<h3 align="center">A passionate FUll Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://rohit-portfolio-sigma.vercel.app/](https://rohit-portfolio-sigma.vercel.app/)
 
