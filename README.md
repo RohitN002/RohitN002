@@ -10,11 +10,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitn002&label=Profile%20views&color=0e75b6&style=flat" alt="rohitn002" /> </p>
 
 
-- I am currently learning **MERN Stack**
+- Expericenced **Full Stack JAVASCRIPT** Developer
 
 - 👨‍💻 All of my projects are available at [https://rohit-portfolio-sigma.vercel.app/](https://rohit-portfolio-sigma.vercel.app/)
 
-- Ask me about **MERN Stack**
+- Ask me about **WEB FUll Stack || AI FULL Stack**
 
 - 📫 How to reach me **rohitnagaraj002@gmail.com**
 
