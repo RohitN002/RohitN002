@@ -20,7 +20,7 @@
 
 - Resume [https://drive.google.com/file/d/17SKcOn1frYd9l4HCIicD_A4I6hn_ll4o/view?usp=sharing](https://drive.google.com/file/d/17SKcOn1frYd9l4HCIicD_A4I6hn_ll4o/view?usp=sharing)
 
-- Fun fact **I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
